@@ -1,6 +1,6 @@
 import { Award, Coffee, Heart, Zap } from "lucide-react";
 import { Reveal } from "../Reveal";
-import profileImage from "@/images/profile.png";
+import profileImage from "@/Images/Profile.png";
 
 const facts = [
   {
